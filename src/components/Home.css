@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+/* .doggy{
+    width: 350px;
+    height: 800px;
+
+} */
+
+
+.random-dog-image{
+    margin-top:10px ;
+    width: 50vh;
+    height: 40vh;
+    padding: 2px;
+    box-shadow: 2px 2px 10px black;
+}
